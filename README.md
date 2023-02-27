@@ -1,2 +1,2 @@
 # game_memory
-A little game memory for practice.
+Um jogo da memória feito para praticar a manipulção do DOM no javascript e também a utilização do Local Storage.
